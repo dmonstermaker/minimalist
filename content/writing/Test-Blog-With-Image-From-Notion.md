@@ -6,18 +6,18 @@ last_edited_time: 2025-03-23T05:48:00.000Z
 status: Published
 author: Monster
 date: 2025-03-11T00:00:00.000Z
-_thumbnail: ./images/photo-1429041966141-44d228a42775_5GtgIR66
+_thumbnail: static/images/photo-1429041966141-44d228a42775_5GtgIR66
 
 ---
 
 # Image #1
 
-![](./images/photo-1429041966141-44d228a42775_5GtgIR66)
+![](static/images/photo-1429041966141-44d228a42775_5GtgIR66)
 
 # Image #2
 
-![](./images/photo-1598839950984-034f6dc7b495_Bv7NHp3j)
+![](static/images/photo-1598839950984-034f6dc7b495_Bv7NHp3j)
 
 # Image #3
 
-![](./images/photo-1517935491970-e2d8a02412fe_34En52Se)
+![](static/images/photo-1517935491970-e2d8a02412fe_34En52Se)
