@@ -25,7 +25,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: notion-jam
-        uses: victornpb/notion-jam@v0.0.10
+        uses: victornpb/notion-jam@v0.0.13
         with:
           NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
           NOTION_DATABASE: https://www.notion.so/1bfcc14e575580929349e3f039bb532c
